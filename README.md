@@ -64,12 +64,6 @@ The project ships with No Authetication as personally I like to build my own dep
 
 The project supports localization / i18n, to translate the front-end use `lang/{code}/frontend.php` file.
 
-### ➡️ Users CRUD 
-
-For your convenience the project comes with complete `users` crud that includes examples of:
-
-- List page with filters and pagination
-- Edit/create pages with form for editing user that includes ajax based role search field
 
 ### ➡️ Structure
 
