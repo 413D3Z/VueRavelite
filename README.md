@@ -6,11 +6,12 @@
 
 # I hate outdated boilerplates so I will make sure this is always upgraded to the latest Core Components, whatever you choose to add in thereafter is up to you
 
-The project was created to save myself time for redoing the same things all over again when starting a new Laravel/Vue project.
+# The project was created to save myself time for redoing the same things all over again when starting a new Laravel/Vue project.
 
-The main goal of this project is to reduce code and make everything simpler for bootstrapping new projects. 
+# The main goal of this project is to reduce code and make everything simpler for bootstrapping new projects. 
 
-Remember Vite 5 required you to import components with the .vue extension. 
+# Remember Vite 5 required you to import components with the .vue extension. 
+# Also Laravel 11 the default DB is sqlite, be sure to change this to MYSQL or MariaDB is required /config/database.php
 
 The project is built with the following components:
 
