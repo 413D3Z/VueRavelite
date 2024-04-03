@@ -6,7 +6,7 @@
         "laravel11",
         "vite5",
         "vue3",
-	"pinia",
+        "pinia"
     ],
     "license": "MIT",
     "require": {
