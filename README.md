@@ -57,15 +57,7 @@ module.exports = {
 
 ### ➡️ Authentication
 
-The project ships with complete authentication boilerplate including:
-- Login
-- Register
-- Forget Password
-- Reset Password
-
-### ➡️ Authorization
-
-The project is configured to use [Bouncer](https://github.com/JosephSilber/bouncer) package for managing authorization across your routes. Authorization is important security subject, so please consult bouncer's package documentation.
+The project ships with No Authetication as personally I like to build my own depending on the circumstance
 
 ### ➡️ Localization / i18n
 
