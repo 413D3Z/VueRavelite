@@ -2,7 +2,7 @@
 <a href="https://www.413d3z.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/28901773?v=4" width="400"></a>
 </p>
 
-# Laravel 10 Vue 3 Vite 5
+# Laravel 11 Vue 3 Vite 5
 
 # I hate outdated boilerplates so I will make sure this is always upgraded to the latest Core Components, whatever you choose to add in thereafter is up to you
 
@@ -126,18 +126,18 @@ Pull requests are welcome, feel free to contribute to this project.
 ```
 Copyright (C) 2024 413D3Z (https://413d3z.com)
 
-This file is part of Laravel Vue Starter
+This file has Laravel 11, Vue 3, Pinia, Tailwind and Vite 5
 
-Laravel Vue Starter is free software: you can redistribute it and/or modify
+Laravel 11, Vue 3, Pinia, Tailwind and Vite 5 is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or
 (at your option) any later version.
 
-Laravel Vue Starter is distributed in the hope that it will be useful,
+Laravel 11, Vue 3, Pinia, Tailwind and Vite 5 is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with Laravel Vue Starter. If not, see <https://www.gnu.org/licenses/>.
+along with Laravel 11, Vue 3, Pinia, Tailwind and Vite 5. If not, see <https://www.gnu.org/licenses/>.
 ```
