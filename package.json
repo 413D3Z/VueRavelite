@@ -1,0 +1,48 @@
+{
+    "private": true,
+    "type": "module",
+    "env": {
+        "node": true,
+        "vue/setup-compiler-macros": true
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build --mode production",
+        "prod": "vite build --mode production",
+        "watch": "vite build --mode development --watch --minify=false"
+    },
+    "dependencies": {
+        "@mdi/js": "^7.4.47",
+        "@vitejs/plugin-vue": "^5.0.4",
+        "@vueuse/integrations": "^10.9.0",
+        "axios": "^1.6.8",
+        "fork-awesome": "^1.2.0",
+        "js-cookie": "^3.0.5",
+        "pinia": "^2.1.7",
+        "resolve-url-loader": "^5.0.0",
+        "vite-plugin-resolve-extension-vue": "^0.1.0",
+        "vue": "^3.4.21",
+        "vue-i18n": "^9.10.2",
+        "vue-loader": "^17.4.2",
+        "vue-multiselect": "^3.0.0-beta.3",
+        "vue-router": "^4.3.0"
+    },
+    "devDependencies": {
+        "@tailwindcss/aspect-ratio": "^0.4.2",
+        "@tailwindcss/forms": "^0.5.7",
+        "@tailwindcss/line-clamp": "^0.4.4",
+        "@tailwindcss/typography": "^0.5.12",
+        "acorn": "^8.11.3",
+        "autoprefixer": "^10.4.19",
+        "cross-env": "^7.0.3",
+        "laravel-vite-plugin": "^1.0.2",
+        "lodash": "^4.17.21",
+        "postcss": "^8.4.38",
+        "sass": "^1.72.0",
+        "sass-loader": "^14.1.1",
+        "tailwindcss": "^3.4.3",
+        "typescript": "^5.4.3",
+        "vite": "^5.2.7",
+        "vite-plugin-vue-devtools": "^7.0.25"
+    }
+}
