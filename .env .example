@@ -1,10 +1,10 @@
-APP_NAME=SakuraCV
+APP_NAME=VueRavelite
 APP_ENV=local
 APP_KEY=
 APP_DEBUG=true
 APP_LOCALE=en
 APP_TIMEZONE=UTC
-APP_URL=http://sakuracv.local
+APP_URL=http://VueRavelite.local
 APP_LOGO=/assets/images/logo.png
 
 LOG_CHANNEL=stack
@@ -13,7 +13,7 @@ LOG_LEVEL=debug
 DB_CONNECTION=mysql
 DB_HOST=localhost
 DB_PORT=3306
-DB_DATABASE=sakuracv
+DB_DATABASE=VueRavelite
 DB_USERNAME=root
 DB_PASSWORD=
 
@@ -48,6 +48,6 @@ PUSHER_APP_KEY=
 PUSHER_APP_SECRET=
 PUSHER_APP_CLUSTER=mt1
 
-SANCTUM_STATEFUL_DOMAINS=sakuracv.local
-SESSION_DOMAIN=sakuracv.local
+SANCTUM_STATEFUL_DOMAINS=VueRavelite.local
+SESSION_DOMAIN=VueRavelite.local
 SPA_URL="${APP_URL}"
